@@ -50,15 +50,15 @@
   
 <img width="665" alt="스크린샷 2025-04-30 오후 2 49 07" src="https://github.com/user-attachments/assets/037d51cf-5738-4ade-ae75-1f4d8def2d23" /> <br>
 
-<br> 1️⃣ 위 사진처럼, 리드미를 직접 수정합니다. <br>
+<br> 1️⃣ **위 사진처럼, 리드미를 직접 수정합니다.** <br>
 
 <img width="556" alt="스크린샷 2025-04-30 오후 2 50 45" src="https://github.com/user-attachments/assets/369e86a6-2741-491e-91ac-e12bda455cb9" /> <br>
 
-<br> 2️⃣ 맨 밑으로 내려가서, 형식에 맞게 정보를 입력합니다.<br>
+<br> 2️⃣ **맨 밑으로 내려가서, 형식에 맞게 정보를 입력합니다**.<br>
 
 <img width="999" alt="스크린샷 2025-04-30 오후 2 58 13" src="https://github.com/user-attachments/assets/6fc4c2ff-cb03-42fe-92b9-cccb8783e40c" />
 
-<br> 3️⃣ 위 사진의 1,2,3번을 순서대로 하면 끝!
+<br> 3️⃣ **위 사진의 1,2,3번을 순서대로 하면 끝!**
 
 ⚠️ 대여 기본 기간은 **2주**입니다. 반납 시에도 위 방법대로 해주세요. (책 분실, 훼손 등의 책임은 마지막으로 대여한 사람에게 있습니다.)
 
