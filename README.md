@@ -70,8 +70,12 @@
 <img width="556" alt="스크린샷 2025-04-30 오후 2 50 45" src="https://github.com/user-attachments/assets/369e86a6-2741-491e-91ac-e12bda455cb9" /> <br>
 
 <br> 2️⃣ **맨 밑으로 내려가서, 형식에 맞게 정보를 입력합니다**.<br>
-
+- 📌 (수정됨) 1번 사진의 3번을 따르지 말고(커밋 메시지 작성하지 말라는 부분) 2번 사진처럼 커밋 메시지를 작성해주세요.
+- ⭐️ 커밋 메시지 형식: [책 대여/책 반납] 이름 - 책 제목
 <img width="999" alt="스크린샷 2025-04-30 오후 2 58 13" src="https://github.com/user-attachments/assets/6fc4c2ff-cb03-42fe-92b9-cccb8783e40c" />
+
+![image](https://github.com/user-attachments/assets/bdd1bb5f-4207-4ac1-9c11-3c7898c05c45)
+
 
 <br> 3️⃣ **위 사진의 1,2,3번을 순서대로 하면 끝!**
 
